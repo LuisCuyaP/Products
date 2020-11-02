@@ -6,6 +6,7 @@ import { CommonService } from './common.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   title = 'RestProduct';
   allProduct: Object;
