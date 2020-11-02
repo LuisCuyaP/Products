@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "lavadora",
+      "description": "especial",
+      "price": "599",
+      "id": 1
+    },
+    {
+      "name": "cocina",
+      "description": "con 3 hornos",
+      "price": "99",
+      "id": 2
+    },
+    {
+      "name": "plato",
+      "description": "porcelana",
+      "price": "16",
+      "id": 3
+    }
+  ]
+}

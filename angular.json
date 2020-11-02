@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RestProduct"
+    }
+  },
+  "defaultProject": "RestProduct",
+  "cli": {
+    "analytics": false
+  }
 }
